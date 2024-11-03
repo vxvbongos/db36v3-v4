@@ -1,4 +1,4 @@
-# db36v4
+# db36v3,db36v4
 
 デフォルトキーマップ（おすすめキーマップ）
 ![スクリーンショット 2024-10-31 163445](https://github.com/user-attachments/assets/3b064528-3716-4838-b9e1-59ae7e0ed765)
